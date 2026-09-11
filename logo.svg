@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4a8b7a"/>
+      <stop offset="100%" stop-color="#2f6b5c"/>
+    </linearGradient>
+    <linearGradient id="feather" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5f7f6"/>
+      <stop offset="100%" stop-color="#d8e8e2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+
+  <path d="M 340 90
+           Q 400 120 380 200
+           Q 360 280 290 340
+           Q 240 385 195 400
+           Q 200 360 220 320
+           Q 250 265 300 220
+           Q 340 185 355 140
+           Q 355 110 340 90 Z"
+        fill="url(#feather)" />
+
+  <path d="M 330 130 Q 320 190 280 250"
+        stroke="#4a8b7a" stroke-width="4" fill="none" opacity="0.35" stroke-linecap="round"/>
+  <path d="M 305 165 Q 295 220 260 275"
+        stroke="#4a8b7a" stroke-width="4" fill="none" opacity="0.35" stroke-linecap="round"/>
+  <path d="M 275 205 Q 265 250 235 295"
+        stroke="#4a8b7a" stroke-width="4" fill="none" opacity="0.35" stroke-linecap="round"/>
+
+  <path d="M 350 100
+           Q 300 200 250 300
+           Q 235 335 218 360
+           Q 205 380 190 385
+           Q 200 350 215 300
+           Q 235 240 270 175
+           Q 300 125 340 95
+           Z"
+        fill="#f5f7f6" />
+
+  <circle cx="392" cy="118" r="34" fill="#4a8b7a"/>
+  <path d="M 392 84
+           Q 416 84 416 108
+           Q 416 128 400 132
+           L 402 148 L 384 136
+           Q 368 130 368 108
+           Q 368 84 392 84 Z"
+        fill="#f5f7f6"/>
+  <circle cx="382" cy="108" r="3.5" fill="#4a8b7a"/>
+  <circle cx="392" cy="108" r="3.5" fill="#4a8b7a"/>
+  <circle cx="402" cy="108" r="3.5" fill="#4a8b7a"/>
+</svg>
